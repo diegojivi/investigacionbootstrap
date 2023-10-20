@@ -1,0 +1,24 @@
+Bootstrap: Libreria de estilos css, creada por twitter, cuya principal caracteristica es dotar
+a los sitios web de reponsividad (que se adapta a cualquier tamaño se pantalla).
+
+CDN (Content Delivery Network): Red de distribuicion de contenido. 
+La ventaja es que nos es necesario descargarlo en la carpeta de archivos, no hay que actualizarlo.
+Se necesita internet para utilizarlo.
+
+La pantalla la deivide en 12 bloques.
+
+sm: small
+md: medium
+lg: large
+xl: extra large
+
+row: fila
+Navbar: barra de navegacion
+my: espacio
+textarea: redimencionar el area texto (con css rezise ya no se pude redimencionar)
+block buttons: poner el boton en bloque, a lo largo.
+
+ms (margin star) auto: margen a la izquierda en automatico.
+
+
+
